@@ -1,0 +1,4 @@
+fight frames: 1089
+average frame time: 15.57 ms
+frames per second (uncapped): 64.2
+window: 1600 x 900

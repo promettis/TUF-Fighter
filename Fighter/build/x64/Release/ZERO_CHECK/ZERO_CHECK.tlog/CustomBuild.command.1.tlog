@@ -1,0 +1,10 @@
+^C:\USERS\MUHAM\ONEDRIVE\DESKTOP\TUF FIGHTER\FIGHTER\BUILD\CMAKEFILES\0BEB111AF1EC20A277649AC9B7CAA4ED\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/muham/OneDrive/Desktop/TUF Fighter/Fighter" "-BC:/Users/muham/OneDrive/Desktop/TUF Fighter/Fighter/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/muham/OneDrive/Desktop/TUF Fighter/Fighter/build/TUF_Fighter.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

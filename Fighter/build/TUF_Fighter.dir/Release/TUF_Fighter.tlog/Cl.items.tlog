@@ -1,0 +1,15 @@
+C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\anims.cpp;C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\build\TUF_Fighter.dir\Release\anims.obj
+C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\audio.cpp;C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\build\TUF_Fighter.dir\Release\audio.obj
+C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\fighter.cpp;C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\build\TUF_Fighter.dir\Release\fighter.obj
+C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\game.cpp;C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\build\TUF_Fighter.dir\Release\game.obj
+C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\main.cpp;C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\build\TUF_Fighter.dir\Release\main.obj
+C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\model.cpp;C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\build\TUF_Fighter.dir\Release\model.obj
+C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\pose.cpp;C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\build\TUF_Fighter.dir\Release\pose.obj
+C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\render.cpp;C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\build\TUF_Fighter.dir\Release\render.obj
+C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\stage_bloc.cpp;C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\build\TUF_Fighter.dir\Release\stage_bloc.obj
+C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\ui.cpp;C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\build\TUF_Fighter.dir\Release\ui.obj
+C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\third_party\meshopt\allocator.cpp;C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\build\TUF_Fighter.dir\Release\allocator.obj
+C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\third_party\meshopt\indexgenerator.cpp;C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\build\TUF_Fighter.dir\Release\indexgenerator.obj
+C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\third_party\meshopt\simplifier.cpp;C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\build\TUF_Fighter.dir\Release\simplifier.obj
+C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\third_party\meshopt\vcacheoptimizer.cpp;C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\build\TUF_Fighter.dir\Release\vcacheoptimizer.obj
+C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\third_party\meshopt\vfetchoptimizer.cpp;C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\build\TUF_Fighter.dir\Release\vfetchoptimizer.obj

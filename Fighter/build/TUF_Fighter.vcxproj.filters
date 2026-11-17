@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\anims.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\audio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\fighter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\pose.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\render.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\stage_bloc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\ui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\third_party\meshopt\allocator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\third_party\meshopt\indexgenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\third_party\meshopt\simplifier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\third_party\meshopt\vcacheoptimizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\third_party\meshopt\vfetchoptimizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\anims.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\audio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\engine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\fighter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\pose.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\render.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\src\ui.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\muham\OneDrive\Desktop\TUF Fighter\Fighter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{05B3CACC-5ED5-3E17-B7EC-15099D1882B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0C006AFC-15B2-3A5A-A075-4B7054DFCC89}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+C:/Users/muham/OneDrive/Desktop/TUF Fighter/Fighter/build/CMakeFiles/raylib.dir
+C:/Users/muham/OneDrive/Desktop/TUF Fighter/Fighter/build/CMakeFiles/TUF_Fighter.dir
+C:/Users/muham/OneDrive/Desktop/TUF Fighter/Fighter/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/muham/OneDrive/Desktop/TUF Fighter/Fighter/build/CMakeFiles/ZERO_CHECK.dir
